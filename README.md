@@ -22,4 +22,4 @@ Interestingly, the visualization actually allows to get to the quintessential "o
 
 ![Another view showing the swarm of amplituhedrons and the keyword height map](img/quantum4.png)
 
-<p>I further explored this topic conceptually in my 2015 SIGGRAPH Asia paper: Fabian Offert, ["Conceptual Superposition. The Aesthetics of Quantum Simulation"](http://dl.acm.org/citation.cfm?id=2835643), in: SIGGRAPH Asia 2015 Art Papers.
+I further explored this topic conceptually in my 2015 SIGGRAPH Asia paper: Fabian Offert, [Conceptual Superposition. The Aesthetics of Quantum Simulation](http://dl.acm.org/citation.cfm?id=2835643), in: SIGGRAPH Asia 2015 Art Papers.
